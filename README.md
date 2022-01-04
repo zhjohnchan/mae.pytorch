@@ -1,4 +1,4 @@
-# Unofficial Implementation of Masked Autoencoders Are Scalable Vision Learners Using Huggingface Transformers
+# Unofficial Implementation of MAE (Masked Autoencoders Are Scalable Vision Learners) Using Huggingface Transformers
 Simple and clean implementation of [Masked Autoencoders Are Scalable Vision Learners]() using Huggingface Transformers.
 
 ## Requirements
